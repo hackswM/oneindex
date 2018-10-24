@@ -8,3 +8,5 @@ aria2NG
 www.site.com 
 根目录是oneindex
 /aria2   是aria2NG
+
+镜相有100多M 不适用now.sh 正在修改呢
